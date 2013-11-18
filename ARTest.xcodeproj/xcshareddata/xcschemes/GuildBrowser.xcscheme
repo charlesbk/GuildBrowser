@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB9FDC3A15E9872D00B3713E"
                BuildableName = "GuildBrowser.app"
-               BlueprintName = "GuildBrowser"
-               ReferencedContainer = "container:GuildBrowser.xcodeproj">
+               BlueprintName = "ARTest"
+               ReferencedContainer = "container:ARTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB9FDC5B15E9872E00B3713E"
                BuildableName = "GuildBrowserTests.octest"
-               BlueprintName = "GuildBrowserTests"
-               ReferencedContainer = "container:GuildBrowser.xcodeproj">
+               BlueprintName = "ARTestTests"
+               ReferencedContainer = "container:ARTest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,8 +44,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB9FDC3A15E9872D00B3713E"
             BuildableName = "GuildBrowser.app"
-            BlueprintName = "GuildBrowser"
-            ReferencedContainer = "container:GuildBrowser.xcodeproj">
+            BlueprintName = "ARTest"
+            ReferencedContainer = "container:ARTest.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB9FDC3A15E9872D00B3713E"
             BuildableName = "GuildBrowser.app"
-            BlueprintName = "GuildBrowser"
-            ReferencedContainer = "container:GuildBrowser.xcodeproj">
+            BlueprintName = "ARTest"
+            ReferencedContainer = "container:ARTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -81,8 +81,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB9FDC3A15E9872D00B3713E"
             BuildableName = "GuildBrowser.app"
-            BlueprintName = "GuildBrowser"
-            ReferencedContainer = "container:GuildBrowser.xcodeproj">
+            BlueprintName = "ARTest"
+            ReferencedContainer = "container:ARTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
