@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB9FDC3A15E9872D00B3713E"
-               BuildableName = "GuildBrowser.app"
-               BlueprintName = "ARTest"
-               ReferencedContainer = "container:ARTest.xcodeproj">
+               BuildableName = "ARTest.app"
+               BlueprintName = "GuildBrowser"
+               ReferencedContainer = "container:GuildBrowser.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,29 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB9FDC5B15E9872E00B3713E"
-               BuildableName = "GuildBrowserTests.octest"
-               BlueprintName = "ARTestTests"
-               ReferencedContainer = "container:ARTest.xcodeproj">
+               BuildableName = "ARTestTests.octest"
+               BlueprintName = "GuildBrowserTests"
+               ReferencedContainer = "container:GuildBrowser.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "3B64C1531839BD000027780B"
+               BuildableName = "ARTestLogicTests.xctest"
+               BlueprintName = "ARTestLogicTests"
+               ReferencedContainer = "container:GuildBrowser.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "3B64C16A1839BDC60027780B"
+               BuildableName = "GuildBrowserLogicTests.xctest"
+               BlueprintName = "GuildBrowserLogicTests"
+               ReferencedContainer = "container:GuildBrowser.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +63,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB9FDC3A15E9872D00B3713E"
-            BuildableName = "GuildBrowser.app"
-            BlueprintName = "ARTest"
-            ReferencedContainer = "container:ARTest.xcodeproj">
+            BuildableName = "ARTest.app"
+            BlueprintName = "GuildBrowser"
+            ReferencedContainer = "container:GuildBrowser.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +82,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB9FDC3A15E9872D00B3713E"
-            BuildableName = "GuildBrowser.app"
-            BlueprintName = "ARTest"
-            ReferencedContainer = "container:ARTest.xcodeproj">
+            BuildableName = "ARTest.app"
+            BlueprintName = "GuildBrowser"
+            ReferencedContainer = "container:GuildBrowser.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +100,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB9FDC3A15E9872D00B3713E"
-            BuildableName = "GuildBrowser.app"
-            BlueprintName = "ARTest"
-            ReferencedContainer = "container:ARTest.xcodeproj">
+            BuildableName = "ARTest.app"
+            BlueprintName = "GuildBrowser"
+            ReferencedContainer = "container:GuildBrowser.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
